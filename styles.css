@@ -1,0 +1,28 @@
+/* Estilos personalizados */
+body {
+    color: #333; /* Color de texto general */
+    background-color: #f8f9fa; /* Fondo claro */
+}
+
+.form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff; /* Fondo de formularios */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-custom {
+    background-color: #900; /* Rojo oscuro */
+    color: #fff;
+}
+
+.btn-custom:hover {
+    background-color: #700;
+}
+
+a {
+    color: #900; /* Rojo oscuro */
+}
+
